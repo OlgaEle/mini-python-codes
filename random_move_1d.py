@@ -1,4 +1,3 @@
-# %%
 import random
 
 line = ['.', '.', '.', '.', '.']
@@ -23,7 +22,7 @@ elif dot_position < line_length -1 and direction == 'right':
 
 # Set new position
 line[dot_position] = 'D'
-print(''.join(line))
+
 
 
 
