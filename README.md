@@ -38,6 +38,9 @@ Here’s a quick tour of the scripts you’ll find in this repo:
 - [**two_sum.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/two_sum.py)  
   Classic algorithm: finds indices of two numbers in a list that add up to a target value. Returns all such pairs (with input validation).
 
+- [**sum_list.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/sum_list.py)  
+  Takes a list of numbers and returns their sum. Simple and perfect for practicing list operations and basic functions.
+
 ## ⚒ How to Use
 
 1. Browse the scripts.
