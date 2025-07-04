@@ -8,37 +8,37 @@ A playful collection of tiny, useful, and beginner-friendly Python scripts. Each
 
 Here’s a quick tour of the scripts you’ll find in this repo:
 
-- [**basic_counter.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/basic_counter.py)  
+- [**basic_counter.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/basic_counter.py) *(while loop)*  
   A simple loop that counts from 0 to 4, printing each number. Great for learning `while` loops!
 
-- [**check_even_odd.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/check_even_odd.py)  
+- [**check_even_odd.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/check_even_odd.py) *(modulus operator, bitwise operator, functions, lambda, list comprehension, map, filter, timing)*  
   Shows off several ways to check if a number (or a list of numbers) is even or odd: using modulus, bitwise, functions, lambdas, list comprehensions, map, filter, and even timing the methods! Interactive and educational.
 
-- [**leap_year.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/leap_year.py)  
+- [**leap_year.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/leap_year.py) *(function, input validation, if-else)*  
   Function to check if a given year is a leap year (with input validation). Enter a year and see if it qualifies!
 
-- [**list_comprehensions.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/list_comprehensions.py)  
+- [**list_comprehensions.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/list_comprehensions.py) *(list comprehension, nested loops, filtering)*  
   Explores nested list comprehensions: generates coordinate lists that don’t sum to a given value. A nice intro to comprehensions and filtering.
 
-- [**moving_dot.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/moving_dot.py)  
+- [**moving_dot.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/moving_dot.py) *(lists, indexing, if-else, print)*  
   Animates a dot moving along a line in a list, showing how to update positions and print results. It’s a cute way to visualize movement and list manipulation.
 
-- [**number_guess.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/number_guess.py)  
+- [**number_guess.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/number_guess.py) *(random, input, if-else)*  
   A mini game! The program picks a random number from 1 to 10; you try to guess it. Gives feedback and reveals the answer.
 
-- [**palindrome_number.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/palindrome_number.py)  
+- [**palindrome_number.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/palindrome_number.py) *(class, method, list, slicing, exception)*  
   Class-based solution to check if a number is a palindrome (reads the same backward and forward). Raises an error if the number is out of bounds.
 
-- [**random_move_1d.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/random_move_1d.py)  
+- [**random_move_1d.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/random_move_1d.py) *(random, lists, indexing, if-else)*  
   Simulates a dot moving left or right at random along a line. Good for understanding randomness and list updates.
 
-- [**runner_up_score.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/runner_up_score.py)  
+- [**runner_up_score.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/runner_up_score.py) *(list, max, list comprehension, exception handling)*  
   Finds the "runner-up" (second highest) score from user input, with error handling for edge cases.
 
-- [**two_sum.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/two_sum.py)  
+- [**two_sum.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/two_sum.py) *(class, function, nested loops, input validation, exception)*  
   Classic algorithm: finds indices of two numbers in a list that add up to a target value. Returns all such pairs (with input validation).
 
-- [**sum_list.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/sum_list.py)  
+- [**sum_list.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/sum_list.py) *(function, list, sum)*  
   Takes a list of numbers and returns their sum. Simple and perfect for practicing list operations and basic functions.
 
 ## ⚒ How to Use
