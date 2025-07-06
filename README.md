@@ -41,6 +41,9 @@ Here’s a quick tour of the scripts you’ll find in this repo:
 - [**sum_list.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/sum_list.py) *(function, list, sum)*  
   Takes a list of numbers and returns their sum. Simple and perfect for practicing list operations and basic functions.
 
+- [**piggy_bank.py**](https://github.com/OlgaEle/mini-python-codes/blob/main/piggy_bank.py) *(class, methods, attributes, OOP, user input)*  
+  Simulates a piggy bank: add and withdraw coins, check the balance, and see how OOP works in Python.
+
 ## ⚒ How to Use
 
 1. Browse the scripts.
